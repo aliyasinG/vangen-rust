@@ -1,4 +1,5 @@
-### Vanity address searcher
+# Vanity address searcher
+
 A blazingly fast vanity address generator written with the Rust programming language.  Supporting Bitcoin (always included), Ethereum, and Solana (via optional features).
 
 With btc-vanity, you can generate wallets that have custom addresses with prefixes, suffixes, substrings, or even regex patterns. It's designed for **speed**, **flexibility**, and **security**.
