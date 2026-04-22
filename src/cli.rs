@@ -8,6 +8,7 @@
 //! $ btc-vanity --help
 //! ```
 //!
+//!
 //! The CLI tool provides several options to customize your address generation:
 //!
 //! ```shell
