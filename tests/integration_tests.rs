@@ -6,7 +6,7 @@ use btc_vanity::{KeyPairGenerator, SolanaKeyPair};
 
 #[test]
 fn test_bitcoin_vanity_address_prefix() {
-    // Try generating a Bitcoin vanity address with a specific prefix
+    // Try generating a Bitcoin vanity address with a specific prefix - int
     let result = VanityAddr::generate::<BitcoinKeyPair>(
         "tst", // Prefix
         8,     // Threads
