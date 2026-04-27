@@ -4,7 +4,7 @@
 //! of vanity cryptocurrency addresses using custom patterns and regular expressions. It supports:
 //! - Validation and adjustment of inputs for specific chains.
 //! - Multi-threaded generation of vanity addresses.
-//! - Pattern matching using prefix, suffix, anywhere, and regex modes.
+//! - Pattern matching using prefix, suffix, anywhere, and regex modes. 
 
 use std::sync::atomic::{AtomicBool, Ordering};
 use std::sync::{mpsc, Arc};
