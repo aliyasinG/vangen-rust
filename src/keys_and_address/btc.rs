@@ -1,5 +1,5 @@
 //! # Bitcoin Key Pair and Address Generation
-//!
+//
 //! This module provides functionality to generate Bitcoin key pairs and their associated compressed addresses.
 
 use std::cell::RefCell;
