@@ -125,6 +125,7 @@ Generate an Ethereum address starting with 0xdead with 8 threads:
 $ btc-vanity --eth -t 8 dead
 ```
 
+
 Generate a Solana address ending with 123:
 ```shell
 # Ensure you installed with: cargo install btc-vanity --features solana
