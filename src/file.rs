@@ -1,5 +1,5 @@
 //! # File Reading and Writing Module
-//!
+//!d
 //! This module provides functionality for:
 //! - Parsing input files containing vanity patterns and flags.
 //! - Writing generated vanity wallet details to output files.
