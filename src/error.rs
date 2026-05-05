@@ -1,7 +1,7 @@
 use std::io;
 use thiserror::Error;
 
-/// A unified error type that encapsulates all possible errors in the btc-vanity application.
+// A unified error type that encapsulates all possible errors in the btc-vanity application.
 #[derive(Error, Debug)]
 pub enum VanityError {
     #[error("File error: {0}")]
