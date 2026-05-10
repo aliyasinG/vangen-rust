@@ -1,5 +1,5 @@
 //! # Vanity Chain Module
-//!
+//!qwe
 //! This module defines the [VanityChain] trait, which provides chain-specific behavior for
 //! generating vanity addresses. It supports `Bitcoin`, `Ethereum`, and `Solana` chains and handles:
 //! - Input validation for both plain and regex patterns.
