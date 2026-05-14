@@ -1,5 +1,5 @@
 //! # CLI and Input File Flags Module
-//!aaaa
+//!aaa
 //! This module handles the extraction and management of flags and configuration options
 //! from the command-line interface (CLI) and input files. It provides mechanisms to:
 //! - Parse flags and input patterns from the CLI.
