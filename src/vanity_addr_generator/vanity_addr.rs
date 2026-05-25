@@ -1,5 +1,5 @@
 //! # Vanity Address Generator Module
-//!
+//!qwe
 //! This module defines the [VanityAddr] and [SearchEngines] structs, which handle the generation
 //! of vanity cryptocurrency addresses using custom patterns and regular expressions. It supports:
 //! - Validation and adjustment of inputs for specific chains.
