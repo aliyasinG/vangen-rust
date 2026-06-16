@@ -24,7 +24,7 @@ hex = { version = "0.4.3", optional = true }  # Make it optional
 secp256k1 = { version = "0.30.0", features = ["rand"], optional = true }  # Make it optional
 sha3 = { version = "0.11.0-pre.4", optional = true }  # Make it optional
 
-# Dependencies for Solana support
+# Dependencies for Solana support-
 solana-sdk = { version = "2.1.10", default-features = false, features = ["full"], optional = true }
 openssl = { version = "0.10", features = ["vendored"], optional = true }
 aho-corasick = "1.1.3"
