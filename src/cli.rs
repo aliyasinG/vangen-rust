@@ -1,4 +1,4 @@
-//! # Cli With Using Clap Crate 
+//! # Cli With Using Clap Crate  
 //!
 //! This module is used for creating a cli app for btc-vanity with using clap crate
 //!
